@@ -1,0 +1,9 @@
+swing 연습용 프로그램
+- 출처 : http://blog.naver.com/PostView.nhn?blogId=elriot&logNo=221398359183&parentCategoryNo=&categoryNo=20&viewDate=&isShowPopularPosts=false&from=postView
+
+- 작성일자 : 20200625
+- 내용 : swing을 활용하여 은행 프로그램을 작성하기(자세한 내용은 위의 홈페이지에 적힌 대로 따라서 실습을 하였음.)
+
+!) 일부 패키지 이름 및 클래스 이름은 약간 변경을 하였습니다.
+
+!) mybank.txt 파일에 계좌이름과 잔액 반영이 됨(선행적으로 텍스트 파일을 만들어야함)
