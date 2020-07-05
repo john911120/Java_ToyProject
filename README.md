@@ -2,7 +2,7 @@
 
 ![download](https://user-images.githubusercontent.com/53751665/85842371-947a0680-b7da-11ea-8034-2f8c1d08c782.png)
 
-<img src="https://user-images.githubusercontent.com/53751665/86532731-19fe6480-bf07-11ea-83dd-2762b1fa0c92.jpg" align="right">
+<img src="https://user-images.githubusercontent.com/53751665/86532792-7b263800-bf07-11ea-9d0c-84da74f2197b.jpg" align="right">
 
 프로젝트 개요 : <br>
  어릴 적 가지고 놀았던 장난감과의 추억을 기억하십니까? 남자 아이라면 로보트, 게임기 관련 장난감을 가지고 즐거운 시간을 보낸 기억이 있을 것입니다.
