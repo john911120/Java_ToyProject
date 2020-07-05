@@ -15,4 +15,4 @@
  지금 저의 깃허브 내에 있는 repository 내부에 약간의 프로젝트가 담겨 있습니다. (이미지 관리 프로그램, 연락처 관리 프로그램...) 이 외에도 다양한 언어를 가지고
 장난감 처럼 만지면서 즐기고 있습니다. 프로그램을 하나 하나 배우면서 만드는 프로그램을 업로드 하고 있습니다.
 
-<img src="https://user-images.githubusercontent.com/53751665/86532792-7b263800-bf07-11ea-9d0c-84da74f2197b.jpg" align="right">
+<img src="https://user-images.githubusercontent.com/53751665/86532792-7b263800-bf07-11ea-9d0c-84da74f2197b.jpg" align="left">
