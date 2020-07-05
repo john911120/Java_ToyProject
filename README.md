@@ -2,6 +2,9 @@
 
 ![download](https://user-images.githubusercontent.com/53751665/85842371-947a0680-b7da-11ea-8034-2f8c1d08c782.png)
 
+![img1 daumcdn](https://user-images.githubusercontent.com/53751665/86532487-56c95c00-bf05-11ea-831e-b7490b273e1f.jpg)
+
+
 프로젝트 개요 : <br>
  어릴 적 가지고 놀았던 장난감과의 추억을 기억하십니까? 남자 아이라면 로보트, 게임기 관련 장난감을 가지고 즐거운 시간을 보낸 기억이 있을 것입니다.
 저는 이번 프로젝트를 만들기로 시작한 동기는 프로그래밍이라는 아주 허들이 높은 장벽이지만 프로그래밍 언어를 가지고 만들어내는 프로그램 및 성과물을
