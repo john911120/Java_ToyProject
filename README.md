@@ -1,4 +1,4 @@
-# Java_ToyProject
+# Pjt_Toy_Program
 
 ![download](https://user-images.githubusercontent.com/53751665/85842371-947a0680-b7da-11ea-8034-2f8c1d08c782.png)
 
