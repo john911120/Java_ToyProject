@@ -2,7 +2,7 @@
 
 ![download](https://user-images.githubusercontent.com/53751665/85842371-947a0680-b7da-11ea-8034-2f8c1d08c782.png)
 
-![개밉상]({ width="800" height="600" style="display: block; margin: 0 auto" })
+![개밉상](https://user-images.githubusercontent.com/53751665/86532558-f4bd2680-bf05-11ea-89d1-a533b0e2ab65.jpg { width="800" height="600" style="display: block; margin: 0 auto" })
 
 프로젝트 개요 : <br>
  어릴 적 가지고 놀았던 장난감과의 추억을 기억하십니까? 남자 아이라면 로보트, 게임기 관련 장난감을 가지고 즐거운 시간을 보낸 기억이 있을 것입니다.
