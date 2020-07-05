@@ -2,7 +2,7 @@
 
 ![download](https://user-images.githubusercontent.com/53751665/85842371-947a0680-b7da-11ea-8034-2f8c1d08c782.png)
 
-![img1 daumcdn](https://user-images.githubusercontent.com/53751665/86532487-56c95c00-bf05-11ea-831e-b7490b273e1f.jpg){align:right}
+![img1 daumcdn](https://user-images.githubusercontent.com/53751665/86532487-56c95c00-bf05-11ea-831e-b7490b273e1f.jpg)</right>
 
 
 프로젝트 개요 : <br>
